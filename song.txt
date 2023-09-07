@@ -4,4 +4,7 @@ wall of shields
 standing strong
 on this their chosen battlefield
 
+some text 1 for the first commit in the feature branch
+some text 2 for the first commit in the feature branch
+
 
